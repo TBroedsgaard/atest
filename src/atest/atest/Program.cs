@@ -10,14 +10,6 @@ namespace atest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Peace and love and lovemaking");
-            Console.WriteLine("Make love not conflicts");
-            Console.BackgroundColor = ConsoleColor.Yellow;
-            Console.ForegroundColor = ConsoleColor.Red;
-
-            Console.WriteLine("Hello World");
-            Console.WriteLine("How are you today?");
-
             Console.ReadLine();
         }
     }
