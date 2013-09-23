@@ -10,6 +10,7 @@ namespace atest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Weebang, conflict!");
             Console.ForegroundColor = ConsoleColor.Red;
 
             Console.WriteLine("Hello World");
