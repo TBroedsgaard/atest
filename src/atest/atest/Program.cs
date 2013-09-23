@@ -11,6 +11,7 @@ namespace atest
         static void Main(string[] args)
         {
             Console.ReadLine();
+            Console.WriteLine("You will never get to see this!");
         }
     }
 }
