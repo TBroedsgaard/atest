@@ -15,6 +15,7 @@ namespace atest
             Console.ForegroundColor = ConsoleColor.Red;
 
             Console.WriteLine("Hello World");
+            Console.WriteLine("How are you today?");
 
             Console.ReadLine();
         }
