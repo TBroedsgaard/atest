@@ -12,7 +12,7 @@ namespace atest
         {
             Console.ForegroundColor = ConsoleColor.Red;
 
-            Console.WriteLine("Helo World");
+            Console.WriteLine("Hello World");
 
             Console.ReadLine();
         }
