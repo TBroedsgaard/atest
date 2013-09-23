@@ -10,7 +10,8 @@ namespace atest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Weebang, conflict!");
+            Console.WriteLine("Peace and love and lovemaking");
+            Console.WriteLine("Make love not conflicts");
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.ForegroundColor = ConsoleColor.Red;
 
