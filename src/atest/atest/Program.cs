@@ -10,6 +10,7 @@ namespace atest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Writing something.");
             Console.ReadLine();
         }
     }
