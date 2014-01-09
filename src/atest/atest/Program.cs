@@ -13,6 +13,7 @@ namespace atest
             Console.WriteLine("Writing something. Doh. Bla. Honk. Wah.");
             Console.ReadLine();
             Console.WriteLine("You will never get to see this!");
+            Console.WriteLine("This is in my new branch");
         }
     }
 }
