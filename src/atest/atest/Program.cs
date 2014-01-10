@@ -14,7 +14,6 @@ namespace atest
             Console.ReadLine();
             Console.WriteLine("You will never get to see this!");
             Console.WriteLine("This is in my new branch");
-            Console.WriteLine("This is in master");
         }
     }
 }
