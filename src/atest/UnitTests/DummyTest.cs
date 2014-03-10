@@ -11,7 +11,7 @@ namespace UnitTests
         {
             int x = 2 + 2;
 
-            Assert.AreEqual(x, 2 + 1);
+            Assert.AreEqual(x, 2 + 2);
         }
     }
 }
