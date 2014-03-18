@@ -19,7 +19,7 @@ namespace UnitTests
         {
             int x = 2 - 2;
 
-            Assert.AreEqual(x, 1);
+            Assert.AreEqual(x, 0);
         }
 
         [TestMethod]
