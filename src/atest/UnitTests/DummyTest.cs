@@ -13,5 +13,19 @@ namespace UnitTests
 
             Assert.AreEqual(x, 2 + 2);
         }
+
+        [TestMethod]
+        public void AdvancedMath()
+        {
+            int x = 2 - 2;
+
+            Assert.AreEqual(x, 1);
+        }
+
+        [TestMethod]
+        public void NotMathAtAll()
+        {
+            Assert.AreEqual(1, 1);
+        }
     }
 }
