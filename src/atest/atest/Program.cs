@@ -14,6 +14,7 @@ namespace atest
             Console.ReadLine();
             Console.WriteLine("You will never get to see this!");
             Console.WriteLine("Brake for bacon");
+            Console.WriteLine("Brake for pull request testing");
         }
     }
 }
