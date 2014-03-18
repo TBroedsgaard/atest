@@ -25,7 +25,7 @@ namespace UnitTests
         [TestMethod]
         public void NotMathAtAll()
         {
-            Assert.AreEqual(0, 0);
+            Assert.AreEqual(1, 1);
         }
     }
 }
